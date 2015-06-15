@@ -1,5 +1,11 @@
 # 如何学习iOS开发
 
+
+
+在线阅读：[GitBook](http://futeng.gitbooks.io/learn-ios-development/content/)
+
+----
+
 ### 为什么不把学习方法也开源呢
 
 - 在这个信息爆炸的时代，学习知识的方法是否合理、高效将直接影响到你个人的能力提升和价值体现。
